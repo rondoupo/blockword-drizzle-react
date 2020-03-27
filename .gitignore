@@ -1,0 +1,3 @@
+# Ignore every .DS_Store file recursively
+*.DS_Store
+
